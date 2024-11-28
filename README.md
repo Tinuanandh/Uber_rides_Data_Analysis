@@ -15,9 +15,6 @@ How to Run:
 > Clone this repository.
 > Open the Jupyter Notebook and execute it to reproduce the analysis and visualizations.
 
-This project showcases how data analysis can provide actionable insights for operational improvements and customer satisfaction.
-This project aims to perform an in-depth analysis of Uber ride data using Python to identify key patterns and insights. The dataset consists of 1,156 records detailing ride characteristics, including start and end times, trip category, trip purpose, and mileage. The analysis combines techniques of data preprocessing, statistical analysis, visualization, and machine learning to address multiple objectives.
-
 Data Preprocessing and Transformation
 Initial steps involved cleaning the data, addressing missing values, and standardizing formats. Missing values for the trip purpose were replaced with "Not Applicable," and duplicates were removed. Date and time columns were transformed to include features like trip duration, time of day, and whether the trip occurred during morning, afternoon, evening, or night. Outliers in distance and duration were identified and removed using Interquartile Range (IQR) and Z-score methods, reducing the dataset to 33% of its original size for robust analysis.
 
