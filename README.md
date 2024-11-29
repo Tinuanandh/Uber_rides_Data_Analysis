@@ -33,3 +33,6 @@ Using a machine learning model (Linear Regression), the study analyzed the influ
 
 ## Conclusion and Future Scope
 This project successfully uncovered critical patterns in Uber trip data, providing actionable insights for operational improvements and customer satisfaction. Future work may explore clustering techniques to segment trip categories further or incorporate external factors such as weather or traffic data for more nuanced predictions.
+
+## License  
+This project is licensed under the [MIT License](LICENSE).
